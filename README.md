@@ -1,4 +1,4 @@
-##How to Use Git and GitHub
+## How to Use Git and GitHub
 
 Ian Till  -  December 2018
 
