@@ -3,7 +3,6 @@ If useful, feel free to fork and if you find anything isn't correct, please fork
 Or, as sometimes there are simply different styles rather than outright best practice, show me easier ways to do things. :-)
 I've initially used an OpenDocument format for the file, but realise this doesn't lend itself to collaborative work so I might convert it to a Markdown Readme file and see if that works any better...
 
-
 ##How to Use Git and GitHub
 
 Ian Till  -  December 2018
