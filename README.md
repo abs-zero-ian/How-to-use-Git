@@ -98,3 +98,7 @@ Instructions here
 ### When done, merge the branch with the Master branch (or main line)...
 
 Instructions here
+
+### Create a new remote repository on GitHub
+   git add myRepo https://github.com/abs-zero-ian/someRepo.git
+
