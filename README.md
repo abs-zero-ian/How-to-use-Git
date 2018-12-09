@@ -2,25 +2,25 @@
 
 Ian Till  -  December 2018
 
-###Introduction
+### Introduction
 This is at least initially, a simple guide to the steps I went through to install Git on my laptop and get it running with a GitHub account to use repositories from all over the net.  My aim is mainly to be able to keep my stock of Arduino libraries up to date (which up until this point I have only downloaded as Zip files and extracted into my working folders.
 
 A lot of the basic usage has been learned from this excellent video on YouTube from Sumit Kumar:  https://www.youtube.com/watch?v=ZrhdlerQ0rA 
 
 Comments are welcome as I develop this, especially where I may inevitably make mistakes or misunderstand what is actually happening at the beginning.  If this is useful to anyone else, that's really great.  :-)
 
-###Git and GitHub?
+### Git and GitHub?
 
 Git and GitHub sound like much the same thing and indeed they have similar functions in different places.  
 - **Git** is the underlying tool that manages repositories of files with version control, supporting multiple concurrent users and allowing those users to operate on the same software at :he same time, then combine their work centrally in a managed workflow (process).  The Git application is generally installed on the User's computer and its function is simply to manage repositories and perform the various synchronisation actions between web copies, local copies and development branches.
 - **GitHub** is an open, online web-based repository system where users can publish their files (code, images, data sets and even documents like this one).  A user can take someone else's work and build on it, improve or fix it and then offer those changes back to the original author, or simply build their own version and tailor it to their own needs.  As the original author improves their codes, GitHub also facilitates updating of derivatives (forks) and therefore benefits both authors and users.
 
-###The Git Workflow
+### The Git Workflow
 
 (insert diagram and describe)
 
 
-###Installing Git
+### Installing Git
 
 My machine is a an Acer Chromebook C720 running the excellent GalliumOS, essentially a lightweight version of Ubuntu.  These steps should broadly be good for any Debian based distro:
 
@@ -84,10 +84,10 @@ To show the status of the current repository and all the files in it (whether th
 - Link this local repository to an online one and push these changes to it,
 - Branch this repository so that changes can be made in the branch and then reviewed before merging them with the master branch.
 
-###Add a branch, select it, make edits, stage the changed files and commit...
+### Add a branch, select it, make edits, stage the changed files and commit...
 
 Instructions here
 
-###When done, merge the branch with the Master branch (or main line)...
+### When done, merge the branch with the Master branch (or main line)...
 
 Instructions here
