@@ -102,3 +102,5 @@ Instructions here
 ### Create a new remote repository on GitHub
    git add myRepo https://github.com/abs-zero-ian/someRepo.git
 
+### Create a new remote branch on GitHub
+   git push -u origin new_branch_name
