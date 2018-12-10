@@ -52,7 +52,7 @@ or (e.g. for specific help with the add command):
 
 	git add -h 
 
-###Using Git on your local machine
+### Using Git on your local machine
 
 Navigate to your chosen working folder on your machine in the terminal.
 
